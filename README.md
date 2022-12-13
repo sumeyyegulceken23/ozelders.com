@@ -12,3 +12,7 @@ Veritabanından İl,ilçe, alan tablolarını çekerek ekrana getiren sade bir w
 
 4-) Geri kalanları ise kodları indirip inceleyebilirsiniz. Buradaki en can alıcı kısım İndex.php de ki form kısmıdır. Doğru bir şekilde verileri veri tabanından çağırabilirseniz
 sorunsuz bir şekilde çalışacaktır.
+
+5-) Sayfamızın son hali
+![image](https://user-images.githubusercontent.com/93864046/207340811-3b2e21f7-d567-4ad6-84cb-9e7ae0ecd70e.png)
+![image](https://user-images.githubusercontent.com/93864046/207341212-83a6ed01-73bc-43e5-ae35-d13d5fe530f4.png)
